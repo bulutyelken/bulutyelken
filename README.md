@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently learning React
+- 🔭 I’m currently working on React
 - 📫 How to reach me: bulutyelken@gmail.com
 
 <!--
