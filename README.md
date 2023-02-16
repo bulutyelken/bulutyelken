@@ -51,13 +51,3 @@ Hello World 👋, I'm <b>Bulut Yelken</b>
 
 </br>
 
-## GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bulutyelken&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/bulutyelken/github-readme-stats)
-
-<a href="https://github.com/bulutyelken/github-readme-stats">
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=bulutyelken&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/bulutyelken/convoychat">
-  <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bulutyelken&theme=tokyonight" />
-</a>
